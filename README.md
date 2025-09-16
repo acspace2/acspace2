@@ -24,12 +24,6 @@
 - <b>R</b>
   - [S&P 500 Regression Analysis](https://)
 
-  
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Andy Cho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/andy-cho-5021451ba/
 
 <!--
 **acspace2/acspace2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
