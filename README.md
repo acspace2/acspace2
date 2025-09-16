@@ -1,7 +1,8 @@
 <h1>Hi, I'm Andy!</h1>
 
+<b>(Please ask for access!)</b>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Project:</h2>
 
 - <b>Java</b>
   - [OpenDataPhilly Analysis](https://)
