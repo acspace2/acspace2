@@ -18,7 +18,7 @@
   - [Making a Website](https://)
  
   
-<h2>👨‍💻 Quant Projects:</h2>
+<h2>👨‍💻 Quant Project:</h2>
 
 - <b>Python</b>
   - [Algo Trading System](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
