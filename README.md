@@ -6,11 +6,10 @@
 
 - <b>Java</b>
   - [OpenDataPhilly Analysis](https://) <br>
-    -	Engineered a Java application to efficiently process and analyze large-scale datasets (10,000+ records) from Philadelphia’s OpenDataPhilly portal, including COVID-19   statistics, property values, and population demographics.
+    -	Engineered a Java application to efficiently process and analyze large-scale datasets (10,000+ records) from Philadelphia’s OpenDataPhilly portal, including COVID-19 statistics, property values, and population demographics.
     -	Developed robust CSV and JSON parsers using JSON.simple, effectively handling real-world data inconsistencies to ensure accurate and reliable data processing.
     -	Designed an intuitive, menu-driven command-line interface for dynamic querying and custom statistical analysis – enhancing user experience and data accessibility.
     -	Optimized performance by applying software design patterns (Singleton, Strategy) and memoization techniques – reducing query processing times by 60% for repeated data requests.
-
   - [Social Media Post Analyzer](https://) <br>
     Applied N-tier architecture to develop Java Program that analyzed files of social media posts to identify posts discussing a certain keyword, associate those posts with their nearest location, and identify what locations are “hotspots” based on the volume of posts associated with that location.
   - [Battleship Game](https://) <br>
