@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andy!</h1>
 
-<b>(Please ask for access!)</b>
+<b>(Please ask for access)</b>
 
 <h2>👨‍💻 Software Development Project:</h2>
 
