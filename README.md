@@ -17,7 +17,7 @@
 - <b>C</b>
   - [Machine Code Assembler & Disassembler] (In progress) (https://) <br>
     Wrote C libraries to implement translation from assembly language to binary file and vice versa.
-  - [Penn-Shredder] (Fall) (https://) <br>
+  - [Penn-Shredder] (In progress) (https://) <br>
     Implemented a custom shell to manage process execution with runtime restriction, featuring redirection capabilities and a two-stage pipeline for efficient task processing.
 - <b>Python</b>
   - [Big Data Analytics & Machine Learning] (In progress) (https://) <br>
