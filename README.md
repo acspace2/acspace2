@@ -15,12 +15,12 @@
   - [Battleship Game](https://) <br>
     Created a human-player vs. computer-player version of Battleship using Java, where the computer places the ships, and the human attempts to sink them. Conducted thorough unit testing with the Junit framework.
 - <b>C</b>
-  - [Machine Code Assembler & Disassembler](https://) <br>
+  - [Machine Code Assembler & Disassembler] (In progress) (https://) <br>
     Wrote C libraries to implement translation from assembly language to binary file and vice versa.
-  - [Penn-Shredder](https://) <br>
+  - [Penn-Shredder] (Fall) (https://) <br>
     Implemented a custom shell to manage process execution with runtime restriction, featuring redirection capabilities and a two-stage pipeline for efficient task processing.
 - <b>Python</b>
-  - [Big Data Analytics & Machine Learning](https://) <br>
+  - [Big Data Analytics & Machine Learning] (In progress) (https://) <br>
     Developed a comprehensive program that conducted data preprocessing, combined data frames from different sources, identified correlations, and built predictive models using various classifiers, neural networks, and regression.
   - [Water Tank Game](https://) <br>
     Demonstrated proficiency in creating an interactive user interface, employing efficient data structures for optimal resource management within the game using Python.
@@ -32,7 +32,7 @@
 <h2>👨‍💻 Quant Project:</h2>
 
 - <b>Python</b>
-  - [Algo Trading System](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) <br>
+  - [Algo Trading System](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) (In progress) <br>
     Built research to execution trading system consisting of vectorized backtests (VectorBT), paper-trading bot (IBKR), and YAML-based configuration for strategies/data/risk using Python.
 - <b>R</b>
   - [S&P 500 Regression Analysis](https://) <br>
